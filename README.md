@@ -1,10 +1,8 @@
-# Effect-of-Lifestyle-OnAgeing
-
-Effects Of Lifestyle On Aging  --- Lifestyle choices for healthy ageing
+## Effects Of Lifestyle On Aging  --- Lifestyle choices for healthy ageing
 
 Various studies have shown discrepancies in ageing even in genetically identical people. It has been reported that major factors of discordance are personal lifestyle choices and habits such as smoking, alcohol etc. By understanding lifestyle and prior medical history, we have created predictive disease model. Predictive disease model is a powerful tool to identify propensity of diseases in individuals, build medical expenditure conjectures and also make the right lifestyle and medical interventions. The main motive behind such models is to develop health protocols as well as customized medical treatments to prevent benign symptoms from becoming more severe.
 
-What is Successful Ageing???
+#### What is Successful Ageing???
 •	High mental & physical function
 •	Active engagement in life
 
